@@ -1,0 +1,74 @@
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261569574426001%22%3A%22DfnzI9Hp%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.884Z",
+		"lastAccessed": "2025-08-22T08:53:50.884Z"
+	},
+	{
+		"key": "datr",
+		"value": "hRenaKCmYiqtIfxcUNyP0y-z",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.884Z",
+		"lastAccessed": "2025-08-22T08:53:50.884Z"
+	},
+	{
+		"key": "sb",
+		"value": "hRenaGzNxiju7qm32ctMlBTf",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.884Z",
+		"lastAccessed": "2025-08-22T08:53:50.884Z"
+	},
+	{
+		"key": "wd",
+		"value": "1366x633",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.884Z",
+		"lastAccessed": "2025-08-22T08:53:50.884Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61569574426001",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.884Z",
+		"lastAccessed": "2025-08-22T08:53:50.884Z"
+	},
+	{
+		"key": "fr",
+		"value": "11CQomG24fDLTEdBS.AWeBwTGiNDx8FpfzISI_g2QU-bVPa2MLT_xTWMDysKhIkZ4Vc0o.BoqC2L..AAA.0.0.BoqC2L.AWdopvW-E5N_wHC7vTyo6HdkJuc",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.884Z",
+		"lastAccessed": "2025-08-22T08:53:50.884Z"
+	},
+	{
+		"key": "xs",
+		"value": "19%3As3UdTfh0evrb-w%3A2%3A1755850076%3A-1%3A-1%3A%3AAcUb6bYwkt4Spxw5pt8qtaMyvkOnx-_NZLOC80i_5_4",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.884Z",
+		"lastAccessed": "2025-08-22T08:53:50.884Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22g.1292300239253398%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22g.8347386922047456%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22g.6715030348534041%22%7D%5D%2C%22utc3%22%3A1755852618181%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-22T08:53:50.885Z",
+		"lastAccessed": "2025-08-22T08:53:50.885Z"
+	}
+]
